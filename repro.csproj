@@ -12,9 +12,9 @@
     </AvaloniaResource>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Avalonia" Version="0.9.999-cibuild0006669-beta" />
-    <PackageReference Include="Avalonia.Controls.DataGrid" Version="0.9.999-cibuild0006669-beta" />
-    <PackageReference Include="Avalonia.Desktop" Version="0.9.999-cibuild0006669-beta" />
-    <PackageReference Include="Avalonia.Diagnostics" Version="0.9.999-cibuild0006669-beta" />
+    <PackageReference Include="Avalonia" Version="0.9.999-cibuild0006789-beta" />
+    <PackageReference Include="Avalonia.Controls.DataGrid" Version="0.9.999-cibuild0006789-beta" />
+    <PackageReference Include="Avalonia.Desktop" Version="0.9.999-cibuild0006789-beta" />
+    <PackageReference Include="Avalonia.Diagnostics" Version="0.9.999-cibuild0006789-beta" />
   </ItemGroup>
 </Project>
